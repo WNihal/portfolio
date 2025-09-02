@@ -68,7 +68,6 @@ const About = () => {
                 <div className="w-32 h-32 bg-gray-300 rounded-full mx-auto mb-4 flex items-center justify-center text-gray-600 text-4xl font-bold">
                   NW
                 </div>
-                {/* <p className="text-gray-600 font-medium">Professional Photo</p> */}
               </div>
             </div>
           </div>
